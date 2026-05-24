@@ -8,5 +8,7 @@ This is a dedicated space for AI-vibe-coded experiments.
 - **The Split:** Ideas by [@ryanphanna](https://github.com/ryanphanna). Built by [@slop-factory](https://github.com/slop-factory).
 - **The Goal:** Unapologetically automated products that actually do something.
 
+Read the [SLOPFESTO.md](../SLOPFESTO.md) for our operational guidelines.
+
 ---
 *Built with AI. Judgment by Human.*
