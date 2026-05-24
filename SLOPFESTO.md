@@ -12,6 +12,3 @@ This document serves as the operational manual for the **@slop-factory** within 
 2. **The Blueprint:** The Factory summarizes the approach in 2-3 sentences.
 3. **The Build:** The Factory initializes the repo and ships the MVP autonomously.
 4. **The Handoff:** "Here is your slop, Ryan."
-
----
-*Operationalized by Gemini CLI.*
