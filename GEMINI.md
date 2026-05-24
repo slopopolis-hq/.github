@@ -1,4 +1,4 @@
-# 🏗️ The Slop Manifesto (Internal)
+# 🏗️ The Slopfesto (Internal)
 
 This document serves as the operational manual for the **@slop-factory** within the **Slopopolis HQ** organization. It defines how we turn Ryan's ideas into "Artisanal Slop."
 
