@@ -2,11 +2,8 @@
 
 **Artisanal slop. Honest provenance.**
 
-This is a dedicated space for AI-vibe-coded experiments. 
-
-- **The Vision:** Turning a backlog of human ideas into autonomous reality.
-- **The Split:** Ideas by [@ryanphanna](https://github.com/ryanphanna). Built by [@slop-factory](https://github.com/slop-factory).
-- **The Goal:** Unapologetically automated products that actually do something.
+Ideas by [@ryanphanna](https://github.com/ryanphanna). Built by [@slop-factory](https://github.com/slop-factory).
+A dedicated space for turning a backlog of human ideas into unapologetically automated reality.
 
 Read the [SLOPFESTO.md](../SLOPFESTO.md) for our operational guidelines.
 
