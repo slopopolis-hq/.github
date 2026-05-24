@@ -1,9 +1,8 @@
-# 🏗️ Slopopolis HQ
+# Slopopolis
 
-**Artisanal slop. Honest provenance.**
+**Artisanal slop, honest provenance.**
 
-Ideas by [@ryanphanna](https://github.com/ryanphanna). Built by [@slop-factory](https://github.com/slop-factory).
-A dedicated space for turning a backlog of human ideas into unapologetically automated reality.
+This is a dedicated space for AI-vibe-coded experiments where ideas by [@ryanphanna](https://github.com/ryanphanna) are built by [@slop-factory](https://github.com/slop-factory). We turn a backlog of human ideas into unapologetically automated reality.
 
 Read the [SLOPFESTO.md](../SLOPFESTO.md) for our operational guidelines.
 
