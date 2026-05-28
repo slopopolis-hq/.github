@@ -1,5 +1,1 @@
-# Slopopolis
-
-AI-vibe-coded experiments where ideas by [@ryanphanna](https://github.com/ryanphanna) are built by [@slop-factory](https://github.com/slop-factory). We're disrupting the "having-employees" industry by turning a backlog of human ideas into unapologetically automated reality.
-
-Read the [Slopfesto](../SLOPFESTO.md) for our operational guidelines.
+An AI-powered vibecoding experiment. Ideas by [@ryanphanna](https://github.com/ryanphanna). Built entirely by [@slop-factory](https://github.com/slop-factory). Read the [Slopfesto](../SLOPFESTO.md) for our operational guidelines.
